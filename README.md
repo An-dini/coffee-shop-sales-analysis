@@ -17,9 +17,24 @@ Transfrom the datas and build a dashboard in **Microsoft Excel** that analize cu
 ## Result
 A dynamic dashboard was developed to analyze customer ordering habits and sales performance across different locations and time periods. With this dashboard, stakeholders are now able to easily monitor transaction trends and make data-driven decisions.
 The analysis revealed several key insights:
+
+<p align="center">
+  <img width="616" height="175" alt="image" src="https://github.com/user-attachments/assets/eabacbba-93d4-4dea-9cfe-90f22070190f" />  
+</p>
+
   - **Revenue** has been steadily **increasing since February**.
+
+<p align="center">
+    <img width="767" height="212" alt="image" src="https://github.com/user-attachments/assets/5f9e77b6-22d5-4476-a0c9-542a159c5f6b" />
+</p>
+
   - **Fridays** consistently record **the highest transaction volume**.
   - **Peak transaction hours** are between **8:00 AM and 10:00 AM**, while the **least active periods** are at **6:00 AM and 7:00–8:00 PM**.
+
+<p align="center">
+    <img width="426" height="274" alt="image" src="https://github.com/user-attachments/assets/8c45e1f3-dfd5-4e70-89b4-35f2cfbf97d6" />
+</p>
+
   - **Coffee** are the **highest performance**, whereas **Packaged Chocolate** have the **lowest performance**.
 These findings serve as the foundation for strategic recommendations to optimize operations and improve sales performance across underperforming product categories.
 
