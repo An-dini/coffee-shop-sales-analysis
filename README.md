@@ -1,4 +1,4 @@
-# Maven Roasters Sales & Consumer Trends Analysis
+# Coffee Shop Sales & Consumer Trends Analysis
 ## Executive Summary
 Using Microsoft Excel, I transformed raw sales data into an interactive dashboard to analyze customer ordering habits across different locations and time periods. This analysis revealed clear patterns in sales trends, customer behavior, and product performance, which were used to develop data-driven business recommendations aimed at increasing overall revenue.
   1. Introduce Saturday Promotions
